@@ -23,7 +23,7 @@ I've moved away from high-level web abstractions to focus on **Systems Programmi
 - **Go**: Mastering goroutines, channels, and building robust backend services.
 - **Python**: Leveraging it for complex automation, data structures, and rapid prototyping.
 
-> "Software is a gas; it expands to fill its container." — *Nathan Myhrvold* (I'm here to make sure that expansion is efficient).
+> "Software is a gas; it expands to fill its container." — *Nathan Myhrvold*
 
 ---
 
