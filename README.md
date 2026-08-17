@@ -1,53 +1,26 @@
-# 👨‍💻 Henrique | Computer Science @ UFLA
+<h1 align="center">Hi 👋, I'm Henrique Furtini</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-I am a **Computer Science** student at the **Federal University of Lavras (UFLA)**, currently in my 2nd semester. My focus is on building high-performance, scalable systems and understanding the "under-the-hood" of software engineering.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hfurtini" alt="hfurtini" /></a> </p>
 
-I've moved away from high-level web abstractions to focus on **Systems Programming**, **Concurrency**, and **Memory Management**. My goal is to achieve mastery in the core technologies that power modern infrastructure.
+- 🔭 I’m currently working on [a Weather CLI](https://github.com/hfurtini/cli-weather)
 
----
+- 🌱 I’m currently learning **Spring Boot + Java**
 
-### 🛠 Tech Stack & Core Interests
+- 👯 I’m looking to collaborate on **open-source projects**
 
-| Category | Technologies |
-| :--- | :--- |
-| **Primary Languages** | `C++`, `Go (Golang)`, `Python` |
-| **Systems & Architecture** | Distributed Systems, Concurrency, Algorithms |
-| **Tools & Environment** | Linux, Git, Docker|
-| **Currently Learning** | Low-level Memory Management, Computer Architecture |
+- 👨‍💻 All of my projects are available at [https://github.com/hfurtini](https://github.com/hfurtini)
 
----
+- 📫 How to reach me **furtinidev@gmail.com**
 
-### 🎯 Mastery Roadmap
-
-- **C++**: Deep diving into memory management, STL, and performance optimization.
-- **Go**: Mastering goroutines, channels, and building robust backend services.
-- **Python**: Leveraging it for complex automation, data structures, and rapid prototyping.
-
-> "Software is a gas; it expands to fill its container." — *Nathan Myhrvold*
-
----
-
-### 📊 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hfurtini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfurtini&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,html,css" height="180px" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hfurtini&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hfurtini&show_icons=true&locale=en" alt="hfurtini" /></p>
 
-### 🎓 Academic Journey (UFLA)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hfurtini&" alt="hfurtini" /></p>
 
-- **B.S. in Computer Science** (2025 - 2029)
-- **Current Focus**: Data Structures, Discrete Mathematics, and Object-Oriented Programming.
-- **Location**: Lavras, MG - Brazil 🇧🇷
-
----
-
-### 📫 Connect with me
-  <a href="mailto:furtinidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
